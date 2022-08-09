@@ -7,7 +7,7 @@ Linguagens utilizadas: HTML e CSS.
 Maratona Rocketseat 3.0
 
 
-Domínio teste no netlify: https://polite-buttercream-6c83b1.netlify.app/
+Domínio teste no netlify: maratona-explorer-3.netlify.app
 
 
 QR CODE de redirecionamento "frame.png"
