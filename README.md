@@ -8,3 +8,4 @@ Maratona Rocketseat 3.0
 
 
 Domínio teste no netlify: https://polite-buttercream-6c83b1.netlify.app/
+QR CODE de redirecionamento "frame.png"
